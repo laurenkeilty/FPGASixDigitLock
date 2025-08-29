@@ -1,0 +1,34 @@
+﻿Contributions:
+
+Summer 2025
+
+Lauren:
+Removed unnecessary/unused inputs from state machine logic.
+Updated to non-blocking assignment in sequential logic to prevent race conditions
+Added clarifying comments to state machine, the Switch to HEX connections,
+and testbenches.
+Added additional scenario to testbenches to capture edge case (Reset hit in the middle of combination entry)
+
+
+Fall 2023
+
+Lauren:
+Wrote the Verilog for generating the Hexes light up values for all possible digits, for errors, and for showing closed and opened (The second always block).
+
+
+We both created the first test in our pre synthesis and postsynthesis  testbench.
+Created the third one in the presythesis and photosynthesis testbench.
+
+
+Was responsible for more of the generation in modelsim but we worked together to figure it out.
+
+
+Mudasser:
+Wrote the Verilog for the state machine (The first always block).
+
+
+We both created the first test in our pre synthesis and postsynthesis  testbench.
+Created the second one in the presythesis and photosynthesis testbench.
+
+
+Was responsible for more of the generation in quartus but we worked together to figure it out.

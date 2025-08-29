@@ -1,0 +1,82 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/18.1
+vlab3_tb
+Z0 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z1 !s110 1756510178
+!i10b 1
+!s100 =D>EeHNgM?S?5jGCDTAam1
+IQhZ]]fi00je]2?5Se;W>Z0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+!s105 tb_lab3_sv_unit
+S1
+Z3 dC:/intelFPGA/18.1/New folder (4)
+w1753570866
+8C:/Users/laure/github-classroom/ubc-cpen211/lab-3-l1e-laurenkeilty/tb_lab3.sv
+FC:/Users/laure/github-classroom/ubc-cpen211/lab-3-l1e-laurenkeilty/tb_lab3.sv
+L0 3
+Z4 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z5 !s108 1756510178.000000
+!s107 C:/Users/laure/github-classroom/ubc-cpen211/lab-3-l1e-laurenkeilty/tb_lab3.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/laure/github-classroom/ubc-cpen211/lab-3-l1e-laurenkeilty/tb_lab3.sv|
+!i113 1
+Z6 o-work work -sv
+Z7 tCvgOpt 0
+vlab3_top
+R0
+R1
+!i10b 1
+!s100 EGS4U^MN?YoOTKcKAXNCO2
+I6l6EM`HJ3lMBke@kJ@jna1
+R2
+!s105 lab3_top_sv_unit
+S1
+R3
+w1753567200
+8C:/Users/laure/github-classroom/ubc-cpen211/lab-3-l1e-laurenkeilty/lab3_top.sv
+FC:/Users/laure/github-classroom/ubc-cpen211/lab-3-l1e-laurenkeilty/lab3_top.sv
+L0 12
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/laure/github-classroom/ubc-cpen211/lab-3-l1e-laurenkeilty/lab3_top.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/laure/github-classroom/ubc-cpen211/lab-3-l1e-laurenkeilty/lab3_top.sv|
+!i113 1
+R6
+R7
+vtb_lab3_gate
+R0
+R1
+!i10b 1
+!s100 c3G_@ckbz_MRgR=78ULd43
+I<zI87P2jiCe;^?JbXB1RP2
+R2
+!s105 tb_lab3_gate_sv_unit
+S1
+R3
+w1754068006
+8C:/Users/laure/github-classroom/ubc-cpen211/lab-3-l1e-laurenkeilty/tb_lab3_gate.sv
+FC:/Users/laure/github-classroom/ubc-cpen211/lab-3-l1e-laurenkeilty/tb_lab3_gate.sv
+L0 4
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/laure/github-classroom/ubc-cpen211/lab-3-l1e-laurenkeilty/tb_lab3_gate.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/laure/github-classroom/ubc-cpen211/lab-3-l1e-laurenkeilty/tb_lab3_gate.sv|
+!i113 1
+R6
+R7

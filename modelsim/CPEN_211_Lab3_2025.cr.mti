@@ -1,0 +1,22 @@
+C:/Users/laure/github-classroom/ubc-cpen211/lab-3-l1e-laurenkeilty/tb_lab3_gate.sv {1 {vlog -work work -sv -stats=none C:/Users/laure/github-classroom/ubc-cpen211/lab-3-l1e-laurenkeilty/tb_lab3_gate.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module tb_lab3_gate
+
+Top level modules:
+	tb_lab3_gate
+
+} {} {}} C:/Users/laure/github-classroom/ubc-cpen211/lab-3-l1e-laurenkeilty/tb_lab3.sv {1 {vlog -work work -sv -stats=none C:/Users/laure/github-classroom/ubc-cpen211/lab-3-l1e-laurenkeilty/tb_lab3.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module lab3_tb
+
+Top level modules:
+	lab3_tb
+
+} {} {}} C:/Users/laure/github-classroom/ubc-cpen211/lab-3-l1e-laurenkeilty/lab3_top.sv {1 {vlog -work work -sv -stats=none C:/Users/laure/github-classroom/ubc-cpen211/lab-3-l1e-laurenkeilty/lab3_top.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module lab3_top
+
+Top level modules:
+	lab3_top
+
+} {} {}}
